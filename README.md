@@ -47,4 +47,4 @@ A tela é dividida estrategicamente em 3 componentes principais:
 ---
 
 Desenvolvido por Glaucio Rodrigues
-![image URL] (https://github.com/Glaucio-Rodrigues/Projeto-globo-ocorrencias/blob/main/projeto-globo-ocorrencias.png?raw=true)
+![image URL](https://github.com/Glaucio-Rodrigues/Projeto-globo-ocorrencias/blob/main/projeto-globo-ocorrencias.png?raw=true)
